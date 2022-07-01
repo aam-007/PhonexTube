@@ -20,6 +20,9 @@ I have been an avid youtube viewer and when I was annoyed to the brink of quitti
 # Ending Notes
 The above project is a fork.
 
-Thanks For reading	                                                                                                                                                
+Thank You
+```
+Yours Truly
+Aditya Mishra
 
-	<sub>Yours Truly                                                                                                                                                            Aditya Mishra	</sub>
+```
